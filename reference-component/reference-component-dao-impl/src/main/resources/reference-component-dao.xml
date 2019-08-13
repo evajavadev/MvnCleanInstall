@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+  <bean id ="orderBookDao" class="se.lexicon.reference.component.dao.OrderBookDaoImpl">
+      <constructor-arg name="gigaSpace" ref="referenceGigaSpace" />
+  </bean>
+
+    <bean id ="instrumentDao" class="se.lexicon.reference.component.dao.InstrumentDaoImpl">
+        <constructor-arg name="gigaSpace" ref="referenceGigaSpace" />
+    </bean>
+
+</beans>
