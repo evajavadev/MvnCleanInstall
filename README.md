@@ -10,7 +10,7 @@ description...
 
 
 
-### task 1
+### ⚽ &nbsp; task 1
 
 <br>
 
@@ -27,7 +27,7 @@ description...
 
 
 
-### task 2
+### 💡 &nbsp; task 2
 
 <br>
 
@@ -44,7 +44,7 @@ description...
 
 
 
-### task 3
+### 🐲 &nbsp; task 3
 
 <br>
 
