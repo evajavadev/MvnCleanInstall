@@ -8,7 +8,7 @@ This repository trains you in how to solve errors in the code. For every task be
 
 With help of this error you go through the application and find what is wrong. For each task, there is only one error. A little further ahead there will be tasks that have more than one error.  
 
-One can always use the debugger, but the point with the exercise is to get to know the architecture of the reference program very well. And 
+
 
 <br>
 
